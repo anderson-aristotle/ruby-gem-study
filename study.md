@@ -130,13 +130,43 @@ As an excercise, briefly research each of the gems above and indicate below
 whether you think each gem mostly provides command line functionality, mostly
 provides features that Ruby developers can use in the code they write, or both. Submit a pull request when finished.
 
-bcrypt:     `<!-- your answer here -->`
-capybara:   `<!-- your answer here -->`
-devise:     `<!-- your answer here -->`
-httparty:   `<!-- your answer here -->`
-paperclip:  `<!-- your answer here -->`
-pry-byebug: `<!-- your answer here -->`
-resque:     `<!-- your answer here -->`
-rspec:      `<!-- your answer here -->`
-rubocop:    `<!-- your answer here -->`
-scss_lint:  `<!-- your answer here -->`
+bcrypt:
+```md
+<!-- your answer here -->
+```
+capybara:
+```md
+<!-- your answer here -->
+```
+devise:
+```md
+<!-- your answer here -->
+```
+httparty:
+```md
+<!-- your answer here -->
+```
+paperclip:
+```md
+<!-- your answer here -->
+```
+pry-byebug:
+```md
+<!-- your answer here -->
+```
+resque:
+```md
+<!-- your answer here -->
+```
+rspec:
+```md
+<!-- your answer here -->
+```
+rubocop:
+```md
+<!-- your answer here -->
+```
+scss_lint:
+```md
+<!-- your answer here -->
+```
