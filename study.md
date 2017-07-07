@@ -127,8 +127,8 @@ tools to interact with Javascript applications, while jQuery adds methods that
 can be used within Javascript applications.
 
 As an excercise, briefly research each of the gems above and indicate below
-whether you think each gem mostly provides command line functionality, or mostly
-provides features that Ruby developers can use in the code they write. Submit a pull request when finished.
+whether you think each gem mostly provides command line functionality, mostly
+provides features that Ruby developers can use in the code they write, or both. Submit a pull request when finished.
 
 bcrypt:     `<!-- your answer here -->`
 capybara:   `<!-- your answer here -->`
