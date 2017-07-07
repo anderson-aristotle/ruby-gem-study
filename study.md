@@ -112,7 +112,7 @@ there's a searchable web interface for that documentation at
 As an exercise, pick one of the gems listed above and research it; then,
 research some alternative gems, and pick the gem that you think is the next best
 alternative. How might you justify this choice of best alternative gem to a
-senior engineer on your team? Explain this below and submit a pull request.
+senior engineer on your team? Explain this below.
 
 ```md
 <!-- your answer here -->
@@ -128,7 +128,7 @@ can be used within Javascript applications.
 
 As an excercise, briefly research each of the gems above and indicate below
 whether you think each gem mostly provides command line functionality, or mostly
-provides features that Ruby developers can use in the code they write.
+provides features that Ruby developers can use in the code they write. Submit a pull request when finished.
 
 bcrypt:     `<!-- your answer here -->`
 capybara:   `<!-- your answer here -->`
