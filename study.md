@@ -117,3 +117,28 @@ senior engineer on your team? Explain this below and submit a pull request.
 ```md
 <!-- your answer here -->
 ```
+
+## Command Line Utilities vs. In-program Functionality
+
+Many gems fall into one of two broad categories: gems that are used from the
+command line, and gems that add functionality to Ruby code. You may have seen
+the same pattern with npm packages. For example, grunt provides command line
+tools to interact with Javascript applications, while jQuery adds methods that
+can be used within Javascript applications.
+
+As an excercise, briefly research each of the gems above and indicate below
+whether you think each gem mostly provides command line functionality, or mostly
+provides features that Ruby developers can use in the code they write.
+
+```md
+bcrypt: <!-- your answer here -->
+capybara: <!-- your answer here -->
+devise: <!-- your answer here -->
+httparty: <!-- your answer here -->
+paperclip: <!-- your answer here -->
+pry-byebug: <!-- your answer here -->
+resque: <!-- your answer here -->
+rspec: <!-- your answer here -->
+rubocop: <!-- your answer here -->
+scss_lint: <!-- your answer here -->
+```
