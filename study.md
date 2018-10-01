@@ -10,8 +10,8 @@ material. Instead, digest what you've read and repeat it in your own voice.
 
 ## Required Readings
 
--   [RubyGems](https://en.wikipedia.org/wiki/RubyGems)
--   [Gemfiles](http://bundler.io/gemfile.html)
+- [RubyGems](https://en.wikipedia.org/wiki/RubyGems)
+- [Gemfiles](http://bundler.io/gemfile.html)
 
 ## What Is a Gem?
 
@@ -33,7 +33,6 @@ Here are some gems that commonly appear in Ruby and Ruby on Rails projects:
 | [rspec](https://rubygems.org/gems/rspec) | Behavior-driven development suite. |
 | [rubocop](https://rubygems.org/gems/rubocop) | Linter for Ruby. |
 | [scss_lint](https://rubygems.org/gems/scss_lint) | Linter for SASS/SCSS. |
-
 
 The jobs these gems do can range from debugging to testing to integrating into
 an API.
@@ -95,10 +94,10 @@ we choose between them? Ultimately, we want to use code that is well-maintained,
 well-tested, and well-documented. If there's a link to the source code on
 GitHub, that can be a great place to find things like:
 
--   When the last commit was, and how frequently commits are made.
--   How many outstanding issues there are (total and as a % of all issues).
--   Who the collaborators are.
--   If there are tests (usually found in the `/test` or `/spec` directory) and
+- When the last commit was, and how frequently commits are made.
+- How many outstanding issues there are (total and as a % of all issues).
+- Who the collaborators are.
+- If there are tests (usually found in the `/test` or `/spec` directory) and
     how extensive they are.
 
 Depending on the gem, there may not necessarily be a lot of documentation
@@ -128,45 +127,65 @@ can be used within Javascript applications.
 
 As an excercise, briefly research each of the gems above and indicate below
 whether you think each gem mostly provides command line functionality, mostly
-provides features that Ruby developers can use in the code they write, or both. Submit a pull request when finished.
+provides features that Ruby developers can use in the code they write, or both.
+Submit a pull request when finished.
 
 bcrypt:
+
 ```md
 <!-- your answer here -->
 ```
+
 capybara:
+
 ```md
 <!-- your answer here -->
 ```
+
 devise:
+
 ```md
 <!-- your answer here -->
 ```
+
 httparty:
+
 ```md
 <!-- your answer here -->
 ```
+
 paperclip:
+
 ```md
 <!-- your answer here -->
 ```
+
 pry-byebug:
+
 ```md
 <!-- your answer here -->
 ```
+
 resque:
+
 ```md
 <!-- your answer here -->
 ```
+
 rspec:
+
 ```md
 <!-- your answer here -->
 ```
+
 rubocop:
+
 ```md
 <!-- your answer here -->
 ```
+
 scss_lint:
+
 ```md
 <!-- your answer here -->
 ```
