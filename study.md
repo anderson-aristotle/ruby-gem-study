@@ -54,7 +54,10 @@ the Gemfile and run
 
 `bundle install`
 
-> When you run `bundle install` for the first time in a project, a new file called 'Gemfile.lock' gets created. This file constrains the versions of the different gems used, so that even if `bundle install` is re-run, and some gems have been updated, only the versions specified in Gemfile.lock get used.
+> When you run `bundle install` for the first time in a project, a new file
+> called 'Gemfile.lock' gets created. This file constrains the versions of the
+> different gems used, so that even if `bundle install` is re-run, and some gems
+> have been updated, only the versions specified in Gemfile.lock get used.
 
 There are a lot of similarities between Node modules and Ruby gems.
 
